@@ -21,7 +21,7 @@ from colorama import *
 bot = commands.Bot(command_prefix="%")
 bot.remove_command('help')
 
-TOKEN = "NzMzMzk5Njg1NTgyMTU5ODgy.XxClrg.8PujaOVr28BWJDBSK08bciEP5I4"
+TOKEN = "Aqui ingresa el TOKEN"
 
 
 
